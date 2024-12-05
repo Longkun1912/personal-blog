@@ -1,0 +1,9 @@
+1. Controller giao tiep voi view va model
+
+2. Model la noi chua cac class de thuc hien cac chuc nang cua ung dung
+
+3. View la noi hien thi giao dien cho nguoi dung
+
+4. Repository la noi chua cac class de thuc hien cac chuc nang truy xuat du lieu (lam viec voi database)
+
+5. Service la noi chua cac class de thuc hien cac chuc nang cua ung dung
